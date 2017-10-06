@@ -2,6 +2,7 @@
 
 #pragma once 
 
+#include "TestingGrounds.h"
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
 #include "TestingGroundsHUD.generated.h"

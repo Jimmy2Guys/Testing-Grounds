@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "TestingGrounds.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "TestingGroundsProjectile.generated.h"

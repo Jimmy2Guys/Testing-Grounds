@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "TestingGrounds.h"
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
 #include "TP_ThirdPersonGameMode.generated.h"
